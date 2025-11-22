@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7135263081469047330
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3785895103161388793}
+  - component: {fileID: 7153460754615019023}
+  - component: {fileID: 4356617793620669756}
+  m_Layer: 0
+  m_Name: QuizManagers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3785895103161388793
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7135263081469047330}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1126.5951, y: 0, z: 85520.96}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7153460754615019023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7135263081469047330}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c1d3c480c9ae4b49bbb45d66ea9e5a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
+  events: {fileID: 11400000, guid: 7f9bdd3b57cc94f4fa93ffdf7e997356, type: 2}
+  timerAnimator: {fileID: 0}
+  timerText: {fileID: 0}
+  timerHalfWayOutColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  timerAlmostOutColor: {r: 1, g: 0, b: 0, a: 1}
+--- !u!114 &4356617793620669756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7135263081469047330}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa65240c20154be41bcfb041e4f41739, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UIManager
+  events: {fileID: 11400000, guid: 7f9bdd3b57cc94f4fa93ffdf7e997356, type: 2}
+  answerPrefab: {fileID: 8583274529151473197, guid: f8d2e0b01656acf47962d6682080ce10, type: 3}
+  uiElements:
+    answersContentArea: {fileID: 0}
+    questionInfoTextObject: {fileID: 0}
+    scoreText: {fileID: 0}
+    resolutionScreenAnimator: {fileID: 0}
+    resolutionBG: {fileID: 0}
+    resolutionStateInfoText: {fileID: 0}
+    resolutionScoreText: {fileID: 0}
+    highScoreText: {fileID: 0}
+    mainCanvasGroup: {fileID: 0}
+    finishUIElements: {fileID: 0}
+  parameters:
+    margins: 15
+    correctBGColor: {r: 0, g: 1, b: 0.2285285, a: 1}
+    incorrectBGColor: {r: 0.93725497, g: 0.21568628, b: 0.21568628, a: 1}
+    finalBGColor: {r: 0, g: 0, b: 0.8039216, a: 1}

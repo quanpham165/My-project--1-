@@ -1,0 +1,34 @@
+# Các thư mục rác của Unity (BẮT BUỘC PHẢI CÓ)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Các file sinh ra bởi Visual Studio (Không cần thiết)
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opentdb
+*.in-progress
+
+# Các file hệ thống (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Các file backup của Unity
+*.backup
+*.bak
+
+# Thư mục phục hồi (cái lúc nãy bạn backup)
+/_Recovery/

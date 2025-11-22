@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\beginer\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|d:\\beginer\\my project (1)\\assets\\scripts\\quizaudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quizaudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|d:\\beginer\\my project (1)\\assets\\scripts\\quizgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quizgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|d:\\beginer\\my project (1)\\assets\\scripts\\quizuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quizuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|d:\\beginer\\my project (1)\\assets\\scripts\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\beginer\\My project (1)\\assets\\questions_data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\questions_data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\beginer\\My project (1)\\assets\\scripts\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D639510A-B7C0-C64D-F6AD-66CC4ECACC64}|Assembly-CSharp-Editor.csproj|D:\\beginer\\My project (1)\\assets\\scripts\\editor\\windows\\datacreator_window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D639510A-B7C0-C64D-F6AD-66CC4ECACC64}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\windows\\datacreator_window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizAudioManager.cs",
+              "DocumentMoniker": "D:\\beginer\\My project (1)\\Assets\\Scripts\\QuizAudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuizAudioManager.cs",
+              "ToolTip": "D:\\beginer\\My project (1)\\Assets\\Scripts\\QuizAudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuizAudioManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:20:37.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizGameManager.cs",
+              "DocumentMoniker": "D:\\beginer\\My project (1)\\Assets\\Scripts\\QuizGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuizGameManager.cs",
+              "ToolTip": "D:\\beginer\\My project (1)\\Assets\\Scripts\\QuizGameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuizGameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:20:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizUIManager.cs",
+              "DocumentMoniker": "D:\\beginer\\My project (1)\\Assets\\Scripts\\QuizUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuizUIManager.cs",
+              "ToolTip": "D:\\beginer\\My project (1)\\Assets\\Scripts\\QuizUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuizUIManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:19:58.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameEvents.cs",
+              "DocumentMoniker": "D:\\beginer\\My project (1)\\Assets\\Scripts\\GameEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameEvents.cs",
+              "ToolTip": "D:\\beginer\\My project (1)\\Assets\\Scripts\\GameEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:11:42.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\beginer\\My project (1)\\Assets\\Scripts\\Question.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Question.cs",
+              "ToolTip": "D:\\beginer\\My project (1)\\Assets\\Scripts\\Question.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Question.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:50:45.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataCreator_Window.cs",
+              "DocumentMoniker": "D:\\beginer\\My project (1)\\Assets\\Scripts\\Editor\\Windows\\DataCreator_Window.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\Windows\\DataCreator_Window.cs",
+              "ToolTip": "D:\\beginer\\My project (1)\\Assets\\Scripts\\Editor\\Windows\\DataCreator_Window.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\Windows\\DataCreator_Window.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:38:32.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Questions_Data.xml",
+              "DocumentMoniker": "D:\\beginer\\My project (1)\\Assets\\Questions_Data.xml",
+              "RelativeDocumentMoniker": "Assets\\Questions_Data.xml",
+              "ToolTip": "D:\\beginer\\My project (1)\\Assets\\Questions_Data.xml",
+              "RelativeToolTip": "Assets\\Questions_Data.xml",
+              "ViewState": "AgIAAO0AAAAAUOnscIXkv/sAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-22T13:49:51.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
