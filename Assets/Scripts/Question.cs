@@ -21,6 +21,9 @@ public class Answer
 public class Question
 {
     public String Info = null;
+
+    public String Category = "General";
+
     public Answer[] Answers = null;
     public Boolean UseTimer = false;
     public Int32 Timer = 0;
